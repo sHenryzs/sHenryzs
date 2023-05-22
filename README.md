@@ -3,7 +3,7 @@
 
 
 <main>
-    <p align="center">Analise e Desenvolvimento de Sistemas em progress<br>
+    <p align="center">Analise e Desenvolvimento de Sistemas in progress<br>
     Iniciante em Frontend</p>
 </main>
    <div align="center"
