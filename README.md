@@ -4,7 +4,7 @@
 
 <main>
     <p align="center">Analise e Desenvolvimento de Sistemas in progress<br>
-    Iniciante em Frontend🤖🎮🎃🎭</p>
+    Iniciante em Frontend</p>
 </main>
    <div align="center"
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
