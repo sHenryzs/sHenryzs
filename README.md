@@ -6,6 +6,13 @@
     <p align="center">Analise e Desenvolvimento de Sistemas in progress<br>
     Iniciante em Frontend</p>
 </main>
+<h3>About me😄</h3>
+
+<ul>
+    <li>👀I'm a fan of Alan Turing and Grace Hopper</li>
+    <li>🚩currently stufying web</li>
+    <li>😎1 day since i started programming</li>
+</ul>
    <div align="center"
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
