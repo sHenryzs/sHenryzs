@@ -6,9 +6,9 @@
     <p align="center">Analise e Desenvolvimento de Sistemas in progress<br>
     Iniciante em Frontend</p>
 </main>
-<h3>About me😄</h3>
+<h2>About me😄</h2>
 
-<ul>
+<ul type="square">
     <li>👀I'm a fan of Alan Turing and Grace Hopper</li>
     <li>🚩currently stufying web</li>
     <li>😎8 days since i started programming</li>
