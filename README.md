@@ -9,7 +9,7 @@
 <h2>About me😄</h2>
 
 <ul type="square">
-    <li>👀I'm a fan of Alan Turing and Grace Hopper</li>
+    <li>👀I'm a fan of Alan Turing, Grace Hopper and Linus Torvalds</li>
     <li>🚩currently stufying web</li>
     <li>😎9 days since i started programming</li>
 </ul>
