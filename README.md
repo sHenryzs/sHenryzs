@@ -11,7 +11,7 @@
 <ul type="square">
     <li>👀I'm a fan of Alan Turing, Grace Hopper and Linus Torvalds</li>
     <li>🚩currently stufying web</li>
-    <li>😎9 days since i started programming</li>
+    <li>😎10 days since i started programming</li>
 </ul>
    <div align="center"
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
